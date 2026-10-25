@@ -16,3 +16,5 @@ See project-brief.md for the full brief.
 
 
 -week7, analyse.py reads ward csv, convert each area and classifies each ward
+
+-Week 8, created a function that inspect data, provide the highest, lowest value and count of the column
