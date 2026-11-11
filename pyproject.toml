@@ -1,12 +1,16 @@
 [project]
 name = "geoclean"
 version = "0.1.0"
-description = "Add your description here"
+description = "Geospatial data analysis and cleaning project"
 readme = "README.md"
+authors = [
+    { name = "M Saleem Baig", email = "msalimbaig13@gmail.com" }
+]
 requires-python = ">=3.13"
 dependencies = [
-    "geopandas>=1.2.0",
-    "pandas>=3.0.6",
+    "geopandas",
+    "rasterio",
+    "matplotlib",
 ]
 
 [project.scripts]

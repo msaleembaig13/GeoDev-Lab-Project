@@ -1,0 +1,9 @@
+wkt_geom,fid,osm_id,osm_type,completene,is_in_heal,amenity,speciality,addr_full,operator,water_sour,changeset_,insurance,staff_doct,contact_nu,uuid,electricit,opening_ho,operationa,source,is_in_he_1,health_ame,changese_1,emergency,changese_2,name,staff_nurs,changese_3,wheelchair,beds,url,dispensing,healthcare,operator_t
+Point (70.64193475377970799 30.70299275527509053),1,2898971145,node,10,,hospital,,,,,22733019,,,,4ebcc7613b7b4c21965289418cef0c3f,,,,,,,1,,6/4/2014,Dilshad Hospital,,drnawab,,,,,,
+Point (70.63942169157022022 30.05144386844989413),2,5326752223,node,10,,hospital,,,,,55255591,,,,70fe6396861146808f1c8d75065fbd0d,,,,,,,1,,1/8/2018,Hospital Chowk,,M Ali Abbas,,,,,,
+Point (70.65307044742183962 30.71187455515385523),3,2898971042,node,13,,hospital,,,,,22733041,,,,eb95f91fff6045a79c27ee34fc4e3745,,,,,,,1,yes,6/4/2014,THQ,,drnawab,,,,,,
+Point (70.5053260767626 31.13237896321015796),4,1922123728,node,10,,hospital,,,,,23067334,,,,549e93c31c7248eeaecac80ecf838c69,,,,,,,3,,6/21/2014,Ahsan Clinic,,Aurimas Fišeras,,,,,,
+Point (70.63791294899897366 30.04924428941910719),5,3550528782,node,10,,hospital,,,,,31500946,,,,f93d4693c42c4f9fac0374a11e2f384c,,,,,,,1,,5/27/2015,DHQ Teaching Hospital Dera Ghazi Khan,,Muneeb Ur Rehman,,,,,,
+Point (70.63290744406182853 30.06271492982830296),6,5324994922,node,10,,hospital,,,,,55228129,,,,8a645f4a5e144bdebee265a46a27ab3e,,,,,,,1,,1/7/2018,Al Asar Hospital,,M Ali Abbas,,,,,,
+Point (70.64314476532183562 30.70336281630019926),7,2898968612,node,13,,hospital,,,,,22732955,,,,52d686344d9249ddafd84583acda0e32,,,,,,,1,no,6/4/2014,Ammar General Hospital,,drnawab,,,,,,
+Point (70.63084599879533698 30.05340095902190001),8,1927270766,node,10,,hospital,,,,,13207494,,,,e60078a7a6fe448ca3fa015cb38b0e50,,,,,,,1,,9/22/2012,Ali Hospital,,izkhan,,,,,,
